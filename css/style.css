@@ -413,6 +413,10 @@ img{
     padding-bottom: 164px;
     background-color: #e7e7f3;
 }
+.builddd{
+    height: 600px;
+    width: 100%;
+}
 .build_top h2{
     font-size: 56px;
     line-height: 1.4;
